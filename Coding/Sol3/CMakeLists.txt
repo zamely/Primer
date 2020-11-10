@@ -1,3 +1,6 @@
 add_subdirectory(Ex3.2)
 add_subdirectory(Ex3.4)
 add_subdirectory(Ex3.5)
+add_subdirectory(Ex3.6)
+add_subdirectory(Ex3.8)
+add_subdirectory(Ex3.10)
